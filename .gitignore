@@ -1,0 +1,4 @@
+**/*.o
+qt-victim
+Makefile
+.qmake.stash
